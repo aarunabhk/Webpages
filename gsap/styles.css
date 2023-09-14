@@ -1,0 +1,38 @@
+*{  
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Gilroy';
+}
+
+body,html{
+    width: 100%;
+    height: 100%;
+    background-color: #020202;
+    color: aliceblue;
+}
+#page1{
+    width:100%;
+    height: 100%;
+    background-color: rgb(105, 65, 225);
+}
+#page2{
+    width:100%;
+    height: 100%;
+    background-color: royalblue;
+}
+#page3{
+    width:100%;
+    height: 100%;
+    background-color: rgb(225, 65, 222);
+}
+.page{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#box{
+    width: 15vw;
+    height: 15vw;
+    background-color: crimson;
+}
