@@ -1,4 +1,4 @@
-Here's the finished version of the website (desktop version)
+Here's the finished version of the webpage(desktop version)
 ![image](https://github.com/aarunabhk/Webpages/assets/112091957/8e7e8d06-1897-4bd3-bc45-832be2cb22a5)
 
 
