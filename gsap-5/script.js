@@ -49,3 +49,10 @@ gsap.to("#page1 h1",{
 //     }
 // })
 
+const pag = document.getElementById('page1')
+const crsr = document.getElementById('cursor')
+pag.addEventListener('mousemove',function(dets){
+    crsr.style.left = dets.x-60+'px'
+    crsr.style.top = dets.y-60+'px'
+    crsr.style.mixBlendMode = 'difference'
+})
